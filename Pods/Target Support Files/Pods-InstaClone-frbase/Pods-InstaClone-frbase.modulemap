@@ -1,0 +1,6 @@
+framework module Pods_InstaClone_frbase {
+  umbrella header "Pods-InstaClone-frbase-umbrella.h"
+
+  export *
+  module * { export * }
+}
